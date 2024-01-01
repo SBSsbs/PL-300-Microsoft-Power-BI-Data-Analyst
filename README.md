@@ -39,6 +39,3 @@ Ce référentiel est ouvert aux contributions de la communauté. Si vous avez de
 Nous remercions Microsoft pour la création de cette certification et la communauté Power BI pour ses précieuses contributions.
 
 Bonne préparation et bonne chance pour l'examen PL-300 !
-
----
-**Note :** Veuillez noter que ce référentiel est destiné à des fins éducatives et ne garantit pas la réussite de l'examen de certification. Il est recommandé de compléter votre préparation par d'autres ressources et pratiques.
