@@ -1,41 +1,41 @@
-# Préparation à la Certification PL-300 de Power BI
+# Power BI PL-300 Certification Preparation
 
-Bienvenue dans ce référentiel GitHub dédié à la préparation à la certification PL-300 de Power BI. Cette certification est une étape cruciale pour renforcer vos compétences en Business Intelligence et démontrer votre expertise dans l'utilisation de Power BI pour l'analyse des données.
+Welcome to this GitHub repository dedicated to preparing for the Power BI PL-300 certification. This certification is a crucial step in strengthening your business intelligence skills and demonstrating your expertise in using Power BI for data analysis.
 
-## À Propos de la Certification
+## About the Certification
 
-La certification PL-300 est conçue pour évaluer votre capacité à :
+The PL-300 certification is designed to assess your ability to:
 
-- Concevoir des solutions de business intelligence avec Power BI.
-- Créer des rapports interactifs et informatifs.
-- Gérer les données et les modèles de données.
-- Intégrer Power BI avec d'autres services Microsoft.
+- Design business intelligence solutions with Power BI.
+- Create interactive and informative reports.
+- Manage data and data models.
+- Integrate Power BI with other Microsoft services.
 
-## Contenu du Référentiel
+## Repository Content
 
-Ce référentiel contient une variété de ressources pour vous aider à vous préparer efficacement à l'examen de certification PL-300 Power BI Data Analyst. Voici ce que vous trouverez :
+This repository contains a variety of continuously updated resources to help you effectively prepare for the PL-300 Power BI Data Analyst certification exam. Here's what you'll find:
 
-- Des guides d'étude pour chaque domaine de compétence couvert par l'examen.
-- Des exemples de projets pratiques pour mettre en pratique vos compétences.
-- Des quiz et des questionnaires pour évaluer vos connaissances.
-- Des liens vers des ressources supplémentaires, y compris la documentation officielle de Microsoft.
+- Study guides for each skill area covered by the exam.
+- Sample hands-on projects to practice your skills.
+- Quizzes and quizzes to assess your knowledge.
+- Links to additional resources, including official Microsoft documentation.
 
-## Comment Utiliser ce Référentiel
+## How to Use This Repository
 
-1. Explorez les Guides d'Étude : Commencez par parcourir les guides d'étude pour chaque domaine de compétence. Chaque guide vous fournira des informations clés et des conseils pour vous préparer.
+1. Explore the Study Guides: Start by browsing the study guides for each skill area. Each guide will provide you with key information and tips to help you prepare.
 
-2. Projets Pratiques : Mettez en pratique ce que vous apprenez en travaillant sur les exemples de projets inclus dans ce référentiel. C'est un excellent moyen de renforcer vos compétences.
+2. Hands-on Projects: Put what you learn into practice by working on the sample projects included in this repository. This is a great way to strengthen your skills.
 
-3. Évaluez Vos Connaissances : Utilisez les quiz et les questionnaires pour tester vos connaissances. Identifiez les domaines où vous avez besoin de plus de pratique.
+3. Assess Your Knowledge: Use the quizzes and quizzes to test your knowledge. Identify areas where you need more practice.
 
-4. Ressources Supplémentaires : N'hésitez pas à explorer les liens vers des ressources supplémentaires, y compris la documentation de Microsoft, pour approfondir vos connaissances.
+4. Additional Resources: Feel free to explore the links to additional resources, including Microsoft documentation, to further your knowledge.
 
-## Contribution
+## Contribute
 
-Ce référentiel est ouvert aux contributions de la communauté. Si vous avez des ressources supplémentaires, des astuces ou des suggestions pour améliorer la préparation à la certification PL-300, n'hésitez pas à contribuer.
+This repository is open to contributions from the community. If you have additional resources, tips, or suggestions to improve PL-300 certification preparation, please contribute.
 
-## Remerciements
+## Acknowledgments
 
-Nous remercions Microsoft pour la création de cette certification et la communauté Power BI pour ses précieuses contributions.
+Thank you to Microsoft for creating this certification and the Power BI community for their valuable contributions.
 
-Bonne préparation et bonne chance pour l'examen PL-300 !
+Happy preparation and good luck on the PL-300 exam!
